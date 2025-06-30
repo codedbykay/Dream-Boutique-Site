@@ -20,7 +20,28 @@
     <h1>Welcome to Your Dream Boutique</h1>
     <p>Where modern elegance meets timeless style. Shop our curated collection today.</p>
     <a href="#" class="cta-button">Shop Now</a>
-  </section>
+  </section> 
+   
+  <section class="shop">
+  <h2>🛍 Shop New Arrivals</h2>
+  <div class="product-grid">
+    <div class="product-card">
+      <img src="https://via.placeholder.com/250x250.png?text=Item+1" alt="Item 1">
+      <h3>Cute Set</h3>
+      <p>$45.00</p>
+    </div>
+    <div class="product-card">
+      <img src="https://via.placeholder.com/250x250.png?text=Item+2" alt="Item 2">
+      <h3>Chic Dress</h3>
+      <p>$60.00</p>
+    </div>
+    <div class="product-card">
+      <img src="https://via.placeholder.com/250x250.png?text=Item+3" alt="Item 3">
+      <h3>Luxury Top</h3>
+      <p>$35.00</p>
+    </div>
+  </div>
+</section>
 
   <!-- 🛍️ Shop Preview -->
   <section class="shop-preview">
