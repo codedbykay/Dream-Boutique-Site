@@ -115,3 +115,45 @@ footer {
   padding: 1.5rem;
   font-size: 1rem;
 }
+ 
+ 
+/* 💖 Shop Grid Section */
+.shop {
+  padding: 2rem;
+  text-align: center;
+}
+
+.shop h2 {
+  font-size: 2rem;
+  color: #d63384;
+  margin-bottom: 1rem;
+}
+
+.product-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.product-card {
+  background: #fff0f5;
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.product-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.product-card h3 {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  color: #d63384;
+}
+
+.product-card p {
+  color: #333;
+  font-weight: bold;
+}
